@@ -13,6 +13,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/Java.png" alt="Java"/>
+  
 </p>
 
 <h3 align="center">Shamanth TS GitHub Stats</h3>
