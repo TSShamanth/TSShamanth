@@ -29,18 +29,15 @@
 
 <h3 align="center">Popular Repositories</h3>
 <p align="center">
-  <a href="https://github.com/tsshamanth/AirCanvas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=AirCanvas&theme=radical" />
+  <a href="https://github.com/tsshamanth/Air-Canva">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=Air-Canva&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/GunZz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=GunZz&theme=radical" />
   </a>
 </p>
 
-<h3 align="center">Contributions in the last year</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tsshamanth&theme=react-dark" alt="tsshamanth" />
-</p>
+
 
 <h3 align="center">Contribution Activity</h3>
 <p align="center">
