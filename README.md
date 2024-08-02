@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="java"/>
+  ![Java](https://i.imgur.com/your-uploaded-java-image-link.png)
   
 </p>
 
