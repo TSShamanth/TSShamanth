@@ -29,11 +29,11 @@
 
 <h3 align="center">Popular Repositories</h3>
 <p align="center">
-  <a href="https://github.com/tsshamanth/repo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=repo1&theme=radical" />
+  <a href="https://github.com/tsshamanth/AirCanva">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=AirCanva&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/repo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=repo2&theme=radical" />
+  <a href="https://github.com/yourusername/GunZz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsshamanth&repo=GunZz&theme=radical" />
   </a>
 </p>
 
